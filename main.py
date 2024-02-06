@@ -119,6 +119,7 @@ squirrel_colors_dataframe=pandas.DataFrame.from_dict(squirrel_colors)
 
 print(squirrel_colors_dataframe)
 
-squirrel_colors_dataframe.to_csv('out.csv')
-
 #TODO: Finally use the dataframe to create a CSV file
+squirrel_colors_dataframe.to_csv('squirrel_count.csv')
+
+
