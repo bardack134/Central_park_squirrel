@@ -1,6 +1,9 @@
 # Importa la biblioteca pandas
 import pandas 
 
+#NOTE: "The same data analysis exercise using the Pandas library to analyze and filter squirrel data in Central Park, but using object-oriented programming."
+
+
 # Define la clase Calculate para realizar cálculos sobre los datos del censo de ardillas
 class Calculate:
     
