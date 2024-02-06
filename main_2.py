@@ -2,6 +2,7 @@
 import pandas
 from squirrel_info_oop import Calculate
 
+#NOTE: "The same data analysis exercise using the Pandas library to analyze and filter squirrel data in Central Park, but using object-oriented programming."
 
 calculate_gray = Calculate(color="Gray")
 # Llama al método get_rows_columns para obtener las filas y columnas que coinciden con el color gris
